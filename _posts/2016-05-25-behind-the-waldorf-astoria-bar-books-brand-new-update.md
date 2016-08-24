@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T10:04:22.561Z'
+datePublished: '2016-08-24T10:06:43.355Z'
 sourcePath: _posts/2016-05-25-behind-the-waldorf-astoria-bar-books-brand-new-update.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/waldorf-astoria-bar-book-update'
@@ -18,8 +18,8 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T10:04:22.061Z'
-title: ''
+dateModified: '2016-08-24T10:06:42.898Z'
+title: 'On-Line Systems: Before the Franchises'
 app_links: []
 publisher:
   name: On-Line Systems
@@ -37,7 +37,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![On-Line Systems: Before the Franshises](https://the-grid-user-content.s3-us-west-2.amazonaws.com/959a3855-2782-479d-8ae9-1cb56aa36009.jpg)
+# On-Line Systems: Before the Franchises
+![Crossfire and Cannonball Blitz](https://the-grid-user-content.s3-us-west-2.amazonaws.com/959a3855-2782-479d-8ae9-1cb56aa36009.jpg)
 
 Crossfire (1981), by Jay Sullivan, is a faithful recreation of the arcade game TARG (1980). Jay Sullivan worked at Informatics with Ken Williams before Ken started On-Line Systems. Ken co-founded a mail-order software business, Calsoft, with Jay -- it was the first of its kind. Calsoft was run by Sullivan in Agoura, California, and On-Line Systems helped with order fulfillment (phone operators) and needed materials such as catalogs and advertising.
 
